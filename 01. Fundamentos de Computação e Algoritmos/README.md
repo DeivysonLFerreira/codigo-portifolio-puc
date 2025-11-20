@@ -1,6 +1,6 @@
 # Fundamentos de Computação e Algoritmos
 
-Professores: Mário Souto e Edson Ifarraguirre Moreno  
+*Professores: Mário Souto e Edson Ifarraguirre Moreno*
 
 ## Ementa da disciplina
 
