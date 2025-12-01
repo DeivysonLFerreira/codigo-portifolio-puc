@@ -1,0 +1,12 @@
+{
+  "name": "servico-catalogo",
+  "version": "1.0.0",
+  "description": "Serviço de catálogo de produtos (exemplo de microserviço)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
