@@ -1,12 +1,13 @@
 {
-  "name": "servico-catalogo",
+  "name": "servico-pedidos",
   "version": "1.0.0",
-  "description": "Serviço de catálogo de produtos (exemplo de microserviço)",
+  "description": "Serviço de pedidos (exemplo de microserviço consumindo outro)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "axios": "^1.7.7",
     "express": "^4.19.2"
   }
 }
